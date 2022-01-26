@@ -54,5 +54,6 @@ public class MVCTest {
     @Test
     public void testGit(){
         System.out.println("测试git提交！");
+        System.out.println("测试git pull提交！");
     }
 }
