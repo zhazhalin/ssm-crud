@@ -51,4 +51,8 @@ public class MVCTest {
         System.out.println("在页面需要连续显示的页面"+pageInfo.getNavigatepageNums());
         System.out.println("员工数据"+pageInfo.getList());
     }
+    @Test
+    public void testGit(){
+        System.out.println("测试git提交！");
+    }
 }
